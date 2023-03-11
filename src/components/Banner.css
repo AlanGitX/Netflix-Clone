@@ -1,0 +1,11 @@
+.banner{
+    height: 500px;
+    object-fit: contain;
+}
+
+.banner h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
